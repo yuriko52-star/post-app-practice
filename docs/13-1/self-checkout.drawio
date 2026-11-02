@@ -1,0 +1,28 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="ページ-1" id="pgASR5a6pFFo2VG3fruZ">
+    <mxGraphModel dx="715" dy="402" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="y2bW0oS0MlNsHEFdw4Ad-1" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;labelPerimeter=1;" value="お客さん" vertex="1">
+          <mxGeometry height="60" width="40" x="130" y="150" as="geometry" />
+        </mxCell>
+        <mxCell id="y2bW0oS0MlNsHEFdw4Ad-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;" value="セルフレジ" vertex="1">
+          <mxGeometry height="180" width="220" x="390" y="90" as="geometry" />
+        </mxCell>
+        <mxCell id="y2bW0oS0MlNsHEFdw4Ad-7" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;" value="商品を読みとる" vertex="1">
+          <mxGeometry height="50" width="150" x="430" y="120" as="geometry" />
+        </mxCell>
+        <mxCell id="y2bW0oS0MlNsHEFdw4Ad-10" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;" value="&lt;br&gt;&lt;div&gt;支払う&lt;/div&gt;" vertex="1">
+          <mxGeometry height="50" width="150" x="430" y="190" as="geometry" />
+        </mxCell>
+        <mxCell id="y2bW0oS0MlNsHEFdw4Ad-11" edge="1" parent="1" source="y2bW0oS0MlNsHEFdw4Ad-1" style="edgeStyle=none;curved=1;rounded=0;curveGeometry=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.032;entryY=0.248;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=12;defaultLabelBackgroundColor=page;startSize=8;endSize=8;" target="y2bW0oS0MlNsHEFdw4Ad-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="y2bW0oS0MlNsHEFdw4Ad-13" edge="1" parent="1" source="y2bW0oS0MlNsHEFdw4Ad-1" style="edgeStyle=none;curved=1;rounded=0;curveGeometry=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.245;entryY=0.944;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=12;defaultLabelBackgroundColor=page;startSize=8;endSize=8;" target="y2bW0oS0MlNsHEFdw4Ad-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
