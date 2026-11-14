@@ -1,0 +1,49 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="ページ-1" id="Z4NhUWXC4OveGpLEeGXr">
+    <mxGraphModel dx="1776" dy="998" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="omUWdfo02HkiZaRoKVJe-3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;" value="モバイルオーダーアプリ" vertex="1">
+          <mxGeometry height="410" width="350" x="210" as="geometry" />
+        </mxCell>
+        <mxCell id="omUWdfo02HkiZaRoKVJe-18" edge="1" parent="1" source="omUWdfo02HkiZaRoKVJe-1" style="edgeStyle=none;curved=1;rounded=0;curveGeometry=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;defaultLabelBackgroundColor=page;labelPadding=0 4;startSize=8;endSize=8;" target="omUWdfo02HkiZaRoKVJe-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="omUWdfo02HkiZaRoKVJe-20" edge="1" parent="1" source="omUWdfo02HkiZaRoKVJe-1" style="edgeStyle=none;curved=1;rounded=0;curveGeometry=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;defaultLabelBackgroundColor=page;labelPadding=0 4;startSize=8;endSize=8;" target="omUWdfo02HkiZaRoKVJe-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="omUWdfo02HkiZaRoKVJe-1" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;labelPerimeter=1;" value="お客" vertex="1">
+          <mxGeometry height="60" width="30" x="60" y="100" as="geometry" />
+        </mxCell>
+        <mxCell id="omUWdfo02HkiZaRoKVJe-16" edge="1" parent="1" source="omUWdfo02HkiZaRoKVJe-2" style="edgeStyle=none;curved=1;rounded=0;curveGeometry=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;fontSize=12;defaultLabelBackgroundColor=page;labelPadding=0 4;startSize=8;endSize=8;" target="omUWdfo02HkiZaRoKVJe-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="omUWdfo02HkiZaRoKVJe-2" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;labelPerimeter=1;" value="店員" vertex="1">
+          <mxGeometry height="60" width="30" x="660" y="400" as="geometry" />
+        </mxCell>
+        <mxCell id="omUWdfo02HkiZaRoKVJe-4" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;" value="メニューの一覧を見る" vertex="1">
+          <mxGeometry height="40" width="170" x="290" y="60" as="geometry" />
+        </mxCell>
+        <mxCell id="omUWdfo02HkiZaRoKVJe-5" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;" value="商品を注文する" vertex="1">
+          <mxGeometry height="40" width="160" x="300" y="120" as="geometry" />
+        </mxCell>
+        <mxCell id="omUWdfo02HkiZaRoKVJe-6" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;" value="注文状況の確認をする" vertex="1">
+          <mxGeometry height="40" width="160" x="300" y="190" as="geometry" />
+        </mxCell>
+        <mxCell id="omUWdfo02HkiZaRoKVJe-7" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;" value="注文の取り消しをする" vertex="1">
+          <mxGeometry height="40" width="160" x="300" y="260" as="geometry" />
+        </mxCell>
+        <mxCell id="omUWdfo02HkiZaRoKVJe-8" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;" value="注文の受け渡しをする" vertex="1">
+          <mxGeometry height="50" width="160" x="300" y="330" as="geometry" />
+        </mxCell>
+        <mxCell id="omUWdfo02HkiZaRoKVJe-17" edge="1" parent="1" source="omUWdfo02HkiZaRoKVJe-1" style="edgeStyle=none;curved=1;rounded=0;curveGeometry=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.088;entryY=0.67;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=12;defaultLabelBackgroundColor=page;labelPadding=0 4;startSize=8;endSize=8;" target="omUWdfo02HkiZaRoKVJe-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="omUWdfo02HkiZaRoKVJe-19" edge="1" parent="1" source="omUWdfo02HkiZaRoKVJe-1" style="edgeStyle=none;curved=1;rounded=0;curveGeometry=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.062;entryY=0.625;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=12;defaultLabelBackgroundColor=page;labelPadding=0 4;startSize=8;endSize=8;" target="omUWdfo02HkiZaRoKVJe-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
