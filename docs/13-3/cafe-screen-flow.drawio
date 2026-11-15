@@ -1,0 +1,117 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="ページ-1" id="ufJNKw1XKKkndqgRCwgR">
+    <mxGraphModel dx="1241" dy="635" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="TFLk3ttRe_gz11nFhk1E-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="メニュー画面" vertex="1">
+          <mxGeometry height="60" width="120" x="300" y="120" as="geometry" />
+        </mxCell>
+        <mxCell id="TFLk3ttRe_gz11nFhk1E-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="注文状況画面" vertex="1">
+          <mxGeometry height="60" width="120" x="480" y="300" as="geometry" />
+        </mxCell>
+        <mxCell id="TFLk3ttRe_gz11nFhk1E-10" edge="1" parent="1" source="TFLk3ttRe_gz11nFhk1E-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;defaultLabelBackgroundColor=page;labelPadding=0 4;" target="TFLk3ttRe_gz11nFhk1E-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TFLk3ttRe_gz11nFhk1E-11" connectable="0" parent="TFLk3ttRe_gz11nFhk1E-10" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];inheritText=1;defaultLabelBackgroundColor=page;labelPadding=0 4;" value="「支払いに進む」を押す" vertex="1">
+          <mxGeometry relative="1" x="-0.2361" y="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TFLk3ttRe_gz11nFhk1E-3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="カート画面" vertex="1">
+          <mxGeometry height="60" width="110" x="60" y="240" as="geometry" />
+        </mxCell>
+        <mxCell id="TFLk3ttRe_gz11nFhk1E-12" edge="1" parent="1" source="TFLk3ttRe_gz11nFhk1E-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;labelPadding=0 4;" target="TFLk3ttRe_gz11nFhk1E-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TFLk3ttRe_gz11nFhk1E-13" connectable="0" parent="TFLk3ttRe_gz11nFhk1E-12" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];inheritText=1;defaultLabelBackgroundColor=page;labelPadding=0 4;" value="支払いを終える" vertex="1">
+          <mxGeometry relative="1" x="0.0359" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TFLk3ttRe_gz11nFhk1E-4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="支払いの画面" vertex="1">
+          <mxGeometry height="60" width="110" x="60" y="450" as="geometry" />
+        </mxCell>
+        <mxCell id="TFLk3ttRe_gz11nFhk1E-5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="注文完了画面" vertex="1">
+          <mxGeometry height="60" width="120" x="310" y="450" as="geometry" />
+        </mxCell>
+        <mxCell id="TFLk3ttRe_gz11nFhk1E-6" edge="1" parent="1" source="TFLk3ttRe_gz11nFhk1E-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.144;entryY=0.031;entryDx=0;entryDy=0;entryPerimeter=0;defaultLabelBackgroundColor=page;labelPadding=0 4;" target="TFLk3ttRe_gz11nFhk1E-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TFLk3ttRe_gz11nFhk1E-7" connectable="0" parent="TFLk3ttRe_gz11nFhk1E-6" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];inheritText=1;defaultLabelBackgroundColor=page;labelPadding=0 4;" value="「カートに入れる」を押す&lt;div&gt;　&lt;/div&gt;" vertex="1">
+          <mxGeometry relative="1" x="0.4757" y="2" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TFLk3ttRe_gz11nFhk1E-8" edge="1" parent="1" source="TFLk3ttRe_gz11nFhk1E-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.897;entryDx=0;entryDy=0;entryPerimeter=0;defaultLabelBackgroundColor=page;labelPadding=0 4;" target="TFLk3ttRe_gz11nFhk1E-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TFLk3ttRe_gz11nFhk1E-9" connectable="0" parent="TFLk3ttRe_gz11nFhk1E-8" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];inheritText=1;defaultLabelBackgroundColor=page;labelPadding=0 4;" value="「買い物を続ける」を押す" vertex="1">
+          <mxGeometry relative="1" x="0.2684" y="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TFLk3ttRe_gz11nFhk1E-16" edge="1" parent="1" source="TFLk3ttRe_gz11nFhk1E-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0.128;entryY=1.053;entryDx=0;entryDy=0;entryPerimeter=0;defaultLabelBackgroundColor=page;labelPadding=0 4;" target="TFLk3ttRe_gz11nFhk1E-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TFLk3ttRe_gz11nFhk1E-17" connectable="0" parent="TFLk3ttRe_gz11nFhk1E-16" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];inheritText=1;defaultLabelBackgroundColor=page;labelPadding=0 4;" value="「注文の状況を見る」を押す" vertex="1">
+          <mxGeometry relative="1" x="0.45" y="2" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TFLk3ttRe_gz11nFhk1E-19" edge="1" parent="1" source="TFLk3ttRe_gz11nFhk1E-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;innerLoopWaypoints=1;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=1;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;labelPadding=0 4;" target="TFLk3ttRe_gz11nFhk1E-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="710" y="300" />
+              <mxPoint x="710" y="340" />
+              <mxPoint x="600" y="340" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TFLk3ttRe_gz11nFhk1E-20" connectable="0" parent="TFLk3ttRe_gz11nFhk1E-19" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];inheritText=1;defaultLabelBackgroundColor=page;labelPadding=0 4;" value="「注文を取り消す」を押す&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry relative="1" x="-0.2143" y="-1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TFLk3ttRe_gz11nFhk1E-21" edge="1" parent="1" source="TFLk3ttRe_gz11nFhk1E-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;entryX=0.8;entryY=1.042;entryDx=0;entryDy=0;entryPerimeter=0;defaultLabelBackgroundColor=page;labelPadding=0 4;" target="TFLk3ttRe_gz11nFhk1E-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TFLk3ttRe_gz11nFhk1E-22" connectable="0" parent="TFLk3ttRe_gz11nFhk1E-21" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];inheritText=1;defaultLabelBackgroundColor=page;labelPadding=0 4;" value="「メニューに戻る」を押す" vertex="1">
+          <mxGeometry relative="1" x="0.7482" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TFLk3ttRe_gz11nFhk1E-23" edge="1" parent="1" source="TFLk3ttRe_gz11nFhk1E-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0.811;entryY=-0.025;entryDx=0;entryDy=0;entryPerimeter=0;defaultLabelBackgroundColor=page;labelPadding=0 4;" target="TFLk3ttRe_gz11nFhk1E-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TFLk3ttRe_gz11nFhk1E-24" connectable="0" parent="TFLk3ttRe_gz11nFhk1E-23" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];inheritText=1;defaultLabelBackgroundColor=page;labelPadding=0 4;" value="「注文の状況を見る」を押す" vertex="1">
+          <mxGeometry relative="1" x="0.1313" y="2" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TFLk3ttRe_gz11nFhk1E-27" edge="1" parent="1" source="TFLk3ttRe_gz11nFhk1E-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;labelPadding=0 4;" target="TFLk3ttRe_gz11nFhk1E-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TFLk3ttRe_gz11nFhk1E-29" connectable="0" parent="TFLk3ttRe_gz11nFhk1E-27" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];inheritText=1;defaultLabelBackgroundColor=page;labelPadding=0 4;" value="注文を選ぶ" vertex="1">
+          <mxGeometry relative="1" x="-0.5016" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TFLk3ttRe_gz11nFhk1E-25" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="注文一覧画面" vertex="1">
+          <mxGeometry height="60" width="120" x="70" y="630" as="geometry" />
+        </mxCell>
+        <mxCell id="TFLk3ttRe_gz11nFhk1E-28" edge="1" parent="1" source="TFLk3ttRe_gz11nFhk1E-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;labelPadding=0 4;" target="TFLk3ttRe_gz11nFhk1E-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TFLk3ttRe_gz11nFhk1E-30" connectable="0" parent="TFLk3ttRe_gz11nFhk1E-28" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];inheritText=1;defaultLabelBackgroundColor=page;labelPadding=0 4;" value="「受け渡し済みにする」を押す" vertex="1">
+          <mxGeometry relative="1" x="-0.0124" y="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TFLk3ttRe_gz11nFhk1E-26" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="注文詳細画面" vertex="1">
+          <mxGeometry height="60" width="120" x="640" y="630" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
