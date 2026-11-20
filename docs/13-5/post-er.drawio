@@ -1,0 +1,39 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="ページ-1" id="J8WxDTfVk8NTPAxG0qYY">
+    <mxGraphModel dx="1030" dy="527" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="HW5G21s3rxmb69suMw98-4" edge="1" parent="1" source="HW5G21s3rxmb69suMw98-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;defaultLabelBackgroundColor=page;labelPadding=0 4;endArrow=ERzeroToMany;endFill=0;startArrow=ERmandOne;startFill=0;" target="HW5G21s3rxmb69suMw98-3">
+          <mxGeometry relative="1" x="0.0027" as="geometry" />
+        </mxCell>
+        <mxCell id="HW5G21s3rxmb69suMw98-8" connectable="0" parent="HW5G21s3rxmb69suMw98-4" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];inheritText=1;defaultLabelBackgroundColor=page;labelPadding=0 4;" value="1人のユーザーは&lt;div&gt;複数の投稿を書く&lt;/div&gt;" vertex="1">
+          <mxGeometry relative="1" x="-0.297" y="-1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HW5G21s3rxmb69suMw98-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="users" vertex="1">
+          <mxGeometry height="60" width="120" x="80" y="70" as="geometry" />
+        </mxCell>
+        <mxCell id="HW5G21s3rxmb69suMw98-5" edge="1" parent="1" source="HW5G21s3rxmb69suMw98-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;labelPadding=0 4;endArrow=ERzeroToMany;endFill=0;startArrow=ERmandOne;startFill=0;" target="HW5G21s3rxmb69suMw98-3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="530" y="405" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HW5G21s3rxmb69suMw98-9" connectable="0" parent="HW5G21s3rxmb69suMw98-5" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];inheritText=1;defaultLabelBackgroundColor=page;labelPadding=0 4;" value="１つのカテゴリには&lt;div&gt;複数の投稿が属する&lt;/div&gt;&lt;div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry relative="1" x="-0.2286" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HW5G21s3rxmb69suMw98-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="categories" vertex="1">
+          <mxGeometry height="60" width="120" x="90" y="360" as="geometry" />
+        </mxCell>
+        <mxCell id="HW5G21s3rxmb69suMw98-3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="posts" vertex="1">
+          <mxGeometry height="60" width="120" x="560" y="220" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
